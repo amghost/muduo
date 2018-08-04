@@ -1,5 +1,6 @@
 *.swp
-
 build/
 .idea/
 cscope*
+.vscode/
+.ycm_extra_conf.py
